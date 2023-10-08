@@ -1,0 +1,24 @@
+.map-card {
+	width: 650px;
+	height: 400px;
+	position: relative;
+	overflow: hidden;
+	border-radius: 20px;
+	border: 2px solid black;
+}
+
+.content-card {
+	width: 650px;
+	margin: 15px 0 15px 0;
+}
+
+.btn {
+	background-color: yellow;
+	padding: 10px 20px;
+	border-radius: 10px;
+	transition: background-color .2s;
+}
+
+.btn:hover {
+	background-color: rgb(210, 210, 0);;
+}
