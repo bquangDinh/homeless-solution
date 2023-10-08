@@ -1,0 +1,14 @@
+.backdrop {
+	background-color: antiquewhite;
+}
+
+#get-started-btn {
+	background-color: yellow;
+	padding: 10px 20px;
+	border-radius: 10px;
+	transition: background-color .2s;
+}
+
+#get-started-btn:hover {
+	background-color: rgb(210, 210, 0);;
+}
